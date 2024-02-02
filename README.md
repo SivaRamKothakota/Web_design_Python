@@ -9,6 +9,16 @@ Open the file named app.py and download 'Flask' using the command 'Pip install F
 
 After run the file named app.py. 
 
-You can Login with the Empoyee and Manager details(sample details give inside).
+You can Login with the Empoyee and Manager details(sample details given).
+
+### Employee Login
+
+Username: employee_username  
+Password: employee_password
+
+### Manager Login
+
+Username: manager_username  
+Password: manager_password
 
 
