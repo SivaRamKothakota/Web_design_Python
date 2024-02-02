@@ -2,7 +2,7 @@
 Developed a Flask-based timesheet website with features for employee time tracking, manager ratings, and implemented secure finalization to prevent post-submission changes.
 
 
-###Clone and extract Zip file with name Timesheet_Project
+###**Clone and extract Zip file with name Timesheet_Project**
 
 
 Open the file named app.py and download 'Flask' using the command 'Pip install Flask'. 
