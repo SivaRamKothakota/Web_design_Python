@@ -13,12 +13,12 @@ You can Login with the Empoyee and Manager details(sample details given).
 
 Employee Login
 
-Username: employee_username  
-Password: employee_password
+Username: employee1
+Password: password1
 
 Manager Login
 
-Username: manager_username  
-Password: manager_password
+Username: manager1  
+Password: password1
 
 
