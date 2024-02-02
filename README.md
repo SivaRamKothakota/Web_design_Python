@@ -5,7 +5,7 @@ Developed a Flask-based timesheet website with features for employee time tracki
 ###**Clone and extract Zip file with name Timesheet_Project**
 
 
-Open the file named app.py and download 'Flask' using the command 'Pip install Flask'. 
+Open the file named 'app.py' and download 'Flask' using the command 'Pip install Flask'. 
 
 After run the file named app.py. 
 
